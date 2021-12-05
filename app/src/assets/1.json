@@ -1,0 +1,19 @@
+{
+    "name": "BurguerNFT",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "DvUWHfYTEkZxcJahygeBcDmp8wLpweCnNHkHmF5iDMfG",
+          "share": 100
+        }
+      ]
+    }
+  }
